@@ -12,7 +12,7 @@
 </head>
 <body>
     <nav class="navigation">
-        <a href="index.jsp" id="nav-arrow">&#8592;</a>
+        <a href="index.html" id="nav-arrow">&#8592;</a>
     </nav>
 </body>
 </html>
